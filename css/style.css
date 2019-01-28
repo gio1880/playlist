@@ -20,33 +20,40 @@ h1 {
     width: auto;
     margin: 20px;
 }
+#images li {
+    list-style: none;
+}
 
-#songs p {
+#songs li {
     font-size: 18px;
     height: 100px;
     font-weight: bold;
     margin: 20px;
+    list-style: none;
 }
 
-#artists p {
+#artists li {
     font-size: 18px;
     height: 100px;
     margin: 20px;
+    list-style: none;
 }
 
-#lengths p {
+#lengths li {
     font-size: 16px;
     height: 100px;
     margin: 20px;
     text-align: right;
+    list-style: none;
 }
 
-#links a {
+#links li {
     display: block;
     font-size: 18px;
     height: 100px;
     font-weight: bold;
     margin: 20px;
+    list-style: none;
 }
 
 #form {
