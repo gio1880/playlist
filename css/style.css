@@ -1,5 +1,7 @@
 h1 {
     text-align: center;
+    font-family: 'Cabin', sans-serif;
+    font-weight: bold;
 }
 
 #cart {
@@ -7,6 +9,10 @@ h1 {
     justify-content: center;
     border-top: 5px solid black;
     border-bottom: 5px solid black;
+    font-family: 'Rokkitt', serif;
+    padding: 1%;
+    background:#0e0e3b;
+    color:gold;
 }
 
 .column {
@@ -54,6 +60,7 @@ h1 {
     font-weight: bold;
     margin: 20px;
     list-style: none;
+    color: gold;
 }
 
 #form {
